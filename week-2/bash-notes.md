@@ -9,3 +9,4 @@
 ## grep millionth data.txt
 ## sort data.txt | uniq -c
 ## strings data.txt | grep "="
+## base64 -d data.txt
